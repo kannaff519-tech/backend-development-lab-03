@@ -9,8 +9,8 @@
 
 | Field | Details |
 |---|---|
-| Name | RAYABARAPU SRIRAM |
-| Registration Number | 252U1R9136 |
+| Name |VIJAY BHASKAR|
+| Registration Number | 252U1R9153 |
 | Section | S-26 |
 
 Live Deployment Link:  https://backend-development-fundamentals-la-one.vercel.app/books
