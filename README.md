@@ -365,11 +365,11 @@ Do not commit `node_modules`, `.env`, passwords, API keys or other secret inform
 
 **Repository URL:**
 
-https://github.com/sriramrayabarapu/Backend-Development-Fundamentals-labs
+https://github.com/kannaff519-tech/backend-development-lab-03
 
 **Lab 3 Folder:**
 
-https://github.com/sriramrayabarapu/Backend-Development-Fundamentals-labs/edit/main/lab3/README.md
+https://github.com/kannaff519-tech/backend-development-lab-03/edit/main/README.md
 
 ## Conclusion
 
