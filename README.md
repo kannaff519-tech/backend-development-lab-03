@@ -13,7 +13,7 @@
 | Registration Number | 252U1R9153 |
 | Section | S-26 |
 
-Live Deployment Link:  https://backend-development-fundamentals-la-one.vercel.app/books
+Live Deployment Link: https://backend-development-lab-03-rho.vercel.app/books
 
 ## Project Objective
 
