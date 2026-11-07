@@ -274,52 +274,33 @@ The validation includes:
 
 The application uses parameterized SQL queries to help prevent SQL injection.
 
-## Screenshots
+![GET All Books](./GET.png)
 
-### 1. GET All Books
-![GET All Books](./Screenshots/GET.png)
+![GET Book by ID](./GET1BOOK.png)
 
-### 2. GET Book by ID
-![GET Book by ID](./Screenshots/GET1BOOK.png)
+![POST Book](./POST.png)
 
-### 3. POST - Add a New Book
-![POST Book](./Screenshots/POST.png)
+![PUT Book](./PUT.png)
 
-### 4. PUT - Update a Book
-![PUT Book](./Screenshots/PUT.png)
+![DELETE Book](./DELETE.png)
 
-### 5. DELETE - Delete a Book
-![DELETE Book](./Screenshots/DELETE.png)
+![Delete a Non-Existing Book](./Delete%20a%20Non-Existing%20Book.png)
 
-### 6. Search Books by Title
-![Search Books by Title](./Screenshots/Search%20Books%20by%20Title.png)
+![Search Books by Title](./Search%20Books%20by%20Title.png)
 
-### 7. Sort Books by Price
-![Sort Books by Price](./Screenshots/Sort%20Books%20by%20Price.png)
+![Sort Books by Price](./Sort%20Books%20by%20Price.png)
 
-### 8. Filter Books by Price Range
-![Filter Books by Price Range](./Screenshots/Filter%20Books%20by%20Price%20Range.png)
+![Filter Books by Price Range](./Filter%20Books%20by%20Price%20Range.png)
 
-### 9. Pagination
-![Pagination](./Screenshots/Pagination.png)
+![Pagination](./Pagination.png)
 
-### 10. Verify Deletion
-![Verify Deletion](./Screenshots/DELETE.png)
+![Update a Book](./Update%20a%20Book.png)
 
-### 11. Test Invalid POST Data
-![Test Invalid POST Data](./Screenshots/Test%20Invalid%20POST%20Data.png)
+![Test Invalid POST Data](./Test%20Invalid%20POST%20Data.png)
 
-### 12. Test Invalid Sorting Order
-![Test Invalid Sorting Order](./Screenshots/Test%20Invalid%20Sorting%20Order.png)
+![Test Invalid Sorting Order](./Test%20Invalid%20Sorting%20Order.png)
 
-### 13. Test Invalid order_by Value
-![Test Invalid order_by Value](./Screenshots/Test%20Invalid%20order_by%20Value.png)
-
-### 14. Update a Non-Existing Book
-![Update a Non-Existing Book](./Screenshots/Update%20a%20Book.png)
-
-### 15. Delete a Non-Existing Book
-![Delete a Non-Existing Book](./Screenshots/Delete%20a%20Non-Existing%20Book.png)
+![Test Invalid order_by Value](./Test%20Invalid%20order_by%20Value.png)
 
 ## Problems Faced and Solutions
 
